@@ -1,0 +1,7 @@
+{
+  "name": "🏆Sürüm  Restoran Sistemi",
+  "description": "QR kod tabanlı garson çağırma, sipariş verme ve AI destekli dijital menü uygulaması.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
